@@ -1,0 +1,27 @@
+/* my styles */
+.zenitsu{
+  background-color: grey;
+  color: white;
+  font-size: 120%;
+}
+li:hover{font-size: 100%;
+background-color: azure;
+border: 2px solid;
+color: black;
+}
+.bg-myimage{
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  background-image: url("https://images.adsttc.com/media/images/5390/7af6/c07a/805c/ea00/032c/large_jpg/trashhand.skillshare-7.jpg?1401977550");}
+
+li{color: white;}
+
+.tester:hover {
+  text-decoration: overline;
+  background-color: black;
+}
+.creatorborder{
+  border: solid 2px black;
+}
